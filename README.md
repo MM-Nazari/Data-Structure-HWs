@@ -23,30 +23,27 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 4](./HW2/Q4.java)
 
 ### HW3
-For a detailed HomeWork description, please refer to the [HW3 Description PDF](./HW3/HW3.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW3/HW3_9931061.pdf). <br />
-The Answer for Code Parts is provided in the [Code Answer Project](./HW3/SignalHW3).
+For a detailed Theoritical HomeWork description, please refer to the [HW3 Theoritical Description PDF](./HW3/تمرین%20سری%20سوم.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW3/9931061_HW3%20(2).pdf). <br />
+
+For a detailed Code HomeWork description, please refer to the [HW3 Code Description PDF](./HW3/HW3-Code.pdf). <br />
+The Answer for Code Parts is provided in the following parts:
+- [Question 1](./HW3/Q1.java)
+- [Question 2](./HW3/Q2.java)
+- [Question 3](./HW3/Q3.java)
 
 ### HW4
-For a detailed HomeWork description, please refer to the [HW4 Description PDF](./HW4/HW4.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW4/HW4_9931061.pdf). <br />
+For a detailed HomeWork description, please refer to the [HW4 Description PDF](./HW4/تمرین%20سری%20چهارم.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW4/9931061_HW4.pdf).
 
 ### HW5
-For a detailed HomeWork description, please refer to the [HW5 Description PDF](./HW5/HW5.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW5/HW5_9931061.pdf). <br />
-The Answer for Code Parts is provided in the [Code Answer Project](./HW5/SignalHW5).
-
-### HW6
-For a detailed HomeWork description, please refer to the [HW66 Description PDF](./HW6/HW6.pdf). <br />
-
-### Final Project: Digital Radio
-For a detailed project description, please refer to the [Project Description PDF](./Final%20Project/digital%20radio.pdf).
-
-## Dependencies
-This project uses the following libraries:
-
-- [numpy](https://numpy.org/)
-- [matplotlib](https://matplotlib.org/)
+For a detailed Code HomeWork description, please refer to the [HW5 Code Description PDF](./HW5/HW5-Code.pdf). <br />
+The Answer for Code Parts is provided in the following parts:
+- [Question 1](./HW5/Q1.java)
+- [Question 2](./HW5/Q2.java)
+- [Question 3](./HW5/Q3.java)
+- [Question 3](./HW5/Q3.java)
+- [Question 3](./HW5/Q3.java)
 
 ## IDE
 This project is developed using IntelliJ.
