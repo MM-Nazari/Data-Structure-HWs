@@ -42,8 +42,8 @@ The Answer for Code Parts is provided in the following parts:
 - [Question 1](./HW5/Q1.java)
 - [Question 2](./HW5/Q2.java)
 - [Question 3](./HW5/Q3.java)
-- [Question 3](./HW5/Q3.java)
-- [Question 3](./HW5/Q3.java)
+- [Question 4](./HW5/Q3.java)
+- [Question 5](./HW5/Q3.java)
 
 ## IDE
 This project is developed using IntelliJ.
