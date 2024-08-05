@@ -8,11 +8,11 @@
 ## Project Description
 
 ### HW1
-For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/HW1.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW1/HW1_9931061.pdf).
+For a detailed HomeWork description, please refer to the [HW1 Description PDF](./HW1/تمرین%20سری%20اول.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW1/9931061_HW1.pdf).
 
 ### HW2
-For a detailed HomeWork description, please refer to the [HW2 Description PDF](./HW2/HW2.pdf). <br />
+For a detailed Theoritical HomeWork description, please refer to the [HW2 Theoritical Description PDF](./HW2/تمرین%20سری%20دوم.pdf). <br />
 The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/HW2_9931061.pdf). <br />
 The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
 
