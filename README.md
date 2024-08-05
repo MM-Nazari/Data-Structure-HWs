@@ -16,7 +16,11 @@ For a detailed Theoritical HomeWork description, please refer to the [HW2 Theori
 The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/9931061_HW2.pdf). <br />
 
 For a detailed Code HomeWork description, please refer to the [HW2 Code Description PDF](./HW2/HW2-Code.pdf). <br />
-The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
+The Answer for Code Parts is provided in the following parts:
+- [Question 1](./HW2/Q1.java)
+- [Question 2](./HW2/Q2.java)
+- [Question 3](./HW2/Q3.java)
+- [Question 4](./HW2/Q4.java)
 
 ### HW3
 For a detailed HomeWork description, please refer to the [HW3 Description PDF](./HW3/HW3.pdf). <br />
