@@ -13,7 +13,9 @@ The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./H
 
 ### HW2
 For a detailed Theoritical HomeWork description, please refer to the [HW2 Theoritical Description PDF](./HW2/تمرین%20سری%20دوم.pdf). <br />
-The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/HW2_9931061.pdf). <br />
+The Answer for Theoritical Parts is provided in the [Theoritical Answer PDF](./HW2/9931061_HW2.pdf). <br />
+
+For a detailed Code HomeWork description, please refer to the [HW2 Code Description PDF](./HW2/HW2-Code.pdf). <br />
 The Answer for Code Parts is provided in the [Code Answer Project](./HW2/SignalHW2).
 
 ### HW3
